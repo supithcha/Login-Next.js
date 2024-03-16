@@ -4,6 +4,10 @@ Login with NextAuth.js by verifying the identity via API.
 - NextAuth.js source: https://next-auth.js.org/configuration/pages
 - API source: https://melivecode.com/
 
+#### To run
+1. install node_modules
+2. to run: npm run dev (http://localhost:3000/) 
+
 
 #### Pages
 - Login page css source: https://github.com/mui/material-ui/tree/v5.15.13/docs/data/material/getting-started/templates/sign-in
